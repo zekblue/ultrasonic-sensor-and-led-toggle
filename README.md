@@ -14,6 +14,12 @@ Trigger the sensor to turn on and off the LED.
 # Raspberry Pi
 Install Raspbian to SD card. Download and follow the installation guide - https://www.raspberrypi.org/downloads/raspbian/
 
-GPIO Header and Pins
+## GPIO Header and Pins
+
 ![Pin guide](https://www.raspberrypi-spy.co.uk/wp-content/uploads/2012/06/Raspberry-Pi-GPIO-Layout-Model-B-Plus-rotated-2700x900.png)
 
+## Hardware Connection
+
+After setting up the connection the circuit looks like shown below.
+
+![test image size](https://raw.githubusercontent.com/zekblue/ultrasonic-sensor-and-led-toggle/master/image/circuit_connection.jpg?token=AAG7EMAIA6YP6QZG657HT4S47XKVA)
