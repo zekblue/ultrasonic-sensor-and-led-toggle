@@ -22,4 +22,4 @@ Install Raspbian to SD card. Download and follow the installation guide - https:
 
 After setting up the connection the circuit looks like shown below.
 
-![test image size](https://raw.githubusercontent.com/zekblue/ultrasonic-sensor-and-led-toggle/master/image/circuit_connection.jpg?token=AAG7EMAIA6YP6QZG657HT4S47XKVA)
+![](/image/circuit_connection.jpg)
